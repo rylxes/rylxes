@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sherriff</h1>
-<h3 align="center">A Software engineer from Nigeria</h3>
+<h3 align="center">A Software Engineer from Nigeria</h3>
 
-- 🌱 I’m currently learning **AWS, Devops
+- 🌱 I’m currently learning **AWS**, **Devops**
 
 - 💬 Ask me about **backend engineering**
 
