@@ -29,6 +29,7 @@
 - Golang
 - Nodejs
 - Frontend (ReactJs, VueJs, Svelte, Angular)
+- Web3 / Solidity
 - Devops
 
 
