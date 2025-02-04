@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sherriff</h1>
-<h3 align="center">🚀 Passionate Software Engineer | Backend & Cloud Enthusiast</h3>
+<h3 align="center">🚀 Passionate Software Engineer | Backend, AI & Cloud Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sherriff-agboola-13655921" target="_blank">
