@@ -75,9 +75,12 @@
 
 ## 📌 Featured Projects  
 
-🔹 **[Project Name 1](https://github.com/rylxes/project1)** - A brief description of the project.  
-🔹 **[Project Name 2](https://github.com/rylxes/project2)** - A brief description of the project.  
-🔹 **[Project Name 3](https://github.com/rylxes/project3)** - A brief description of the project.  
+🔹 **[mcsl](https://github.com/rylxes/mcsl)** - A project related to PHP.  
+🔹 **[code-simulator](https://github.com/rylxes/code-simulator)** - A Python code simulator.  
+🔹 **[electionWeb](https://github.com/rylxes/electionWeb)** - A web project based on HTML.  
+🔹 **[exam-admin](https://github.com/rylxes/exam-admin)** - An administration project using PHP.  
+🔹 **[nextgen-frontend](https://github.com/rylxes/nextgen-frontend)** - A frontend project using Vue.
+
 
 ---
 
